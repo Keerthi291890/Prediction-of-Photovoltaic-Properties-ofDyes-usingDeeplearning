@@ -1,0 +1,1 @@
+# Prediction-of-Photovoltaic-Properties-ofDyes-usingDeeplearning
